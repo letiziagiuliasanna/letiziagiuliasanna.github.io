@@ -190,11 +190,12 @@ a:hover {
 	line-height: 8;
 }
 
-.intro h1 {
-	font-size: 40px;
+h1 {
+	font-size: 70px;
 	letter-spacing: 4px;
 	text-shadow: 1px 1px 3px grey;
-	margin: 25px;
+	position: relative;
+	top: -150px;
 }
 
 .intro h3 {
@@ -202,8 +203,7 @@ a:hover {
 	letter-spacing: 1px;
 	text-shadow: 1px 1px 3px grey;
 	position: relative;
-	top: 20px;
-	margin-left: 5px;
+	top: -450px;
 }
 
 .button {
