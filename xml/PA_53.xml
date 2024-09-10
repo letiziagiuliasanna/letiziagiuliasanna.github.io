@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata 
+	xmlns:mp="http://example.org/MyProject/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- metadati opera fisica -->
+<dc:title>Un silenzio e uno sguardo</dc:title>
+<dc:creator>Maria Lai </dc:creator>
+<dc:subject>Disegno di donna</dc:subject>	                          
+<dc:description>Disegno tecnica carboncino di donna seduta pensosa</dc:description>
+<dc:publisher>ISRE</dc:publisher><!-- Istituto Superiore Regionale Etnografico Sardegna -->
+<dc:contributor>N/A</dc:contributor>
+<dc:date>1953</dc:date>
+<dc:type>Disegno</dc:type>
+<dc:format>29,7cm x 42cm</dc:format>
+<dc:source>Maria Lai/ISRE</dc:source>
+<dc:coverage>Ulassai, Sardegna, Italia </dc:coverage>
+
+<!-- metadati versione digitale -->
+<dcterms:created>2024-06-01</dcterms:created><!--In riferimento all'inserimento dell'opera nel catalogo online -->
+<dcterms:creator>Sanna Letizia Giulia</dcterms:creator>
+<dcterms:format>JPEG</dcterms:format>
+<dcterms:description>Immagine digitale ad alta risoluzione del disegno a carboncino originale</dcterms:description>
+<dcterms:publisher>GitHub, Università di Bologna</dcterms:publisher>
+
+
+</metadata>

@@ -1,0 +1,26 @@
+title {
+	color:#4d4d4d; /*grigio scuro*/ 
+    background-color :#fff2e6; /*beige chiarissimo*/
+    margin-left: 100%;
+    margin-top:20%;
+    margin-bottom:500%;
+    font-size: 26px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+respStmt, publicationStmt {
+	font-size: 20px;
+}
+
+sourceDesc {
+	font-size: 20px;
+}
+
+teiText {
+    margin:2%;
+    padding: 20px; 
+    font-size: 18px;
+    text-align: justify;
+    text-indent: 0;
+}

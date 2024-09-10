@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="it">
+    <head>
+      <title>Maria Lai</title>
+
+      <!-- meta elementi vd. lezione 26/03 -->
+      <meta charset="UTF-8" /> <!-- charset per garantire l'interoperabilità dei caratteri con ogni browser -->
+      <meta name="keywords" content="Maria Lai, arte sarda, arte contemporanea" /> 
+      <meta name="description" content="Sito dedicato a Maria Lai" />
+      <meta name="author" content="Letizia Giulia Sanna" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!-- viewport permette di regolare automaticamente le dimensioni di visualizzazione della pagina a seconda del device d'accesso -->
+
+<!-- Links --> 
+      <link rel="stylesheet" href="stile/stile.css"/>
+
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    </head>
+
+    <body>
+      <header id="top">
+            <div class="grid-container-top">
+                <div class="grid-logo">
+                    <a href="index.html"><img src= "img/layout/logo.png" class="logo-top" alt="Logo frase Maria Lai" title="Desiderio di cielo"/></a>
+                </div>   
+                <div class="grid-container-navbar">
+                    <div class="navbar">
+                    <ul>
+                        <li><a href="index.html" title="Home" class="active">Home</a></li>
+                        <li><a href="vita.html" title="La vita" class="active">La vita</a></li>
+                        <li><a href="catalogo.html" title="Catalogo opere" class="active">Catalogo opere</a></li>
+                        <li><a href="altro.html" title= "Altri contenuti" class="active">Altro</a></li>
+                    </ul>
+                    </div>
+                </div>
+                <div class="grid-i">
+                <a href="#info" id="button_info_2" title="Più info"><i class="fa fa-info-circle"></i></a>
+                </div>
+            </div>
+        </header>
+      
+        <!-- two columns grid -->
+      <div class="row">
+        <!-- left column -->
+        <section id="leftcolumnITEM">
+        <div class="leftcolumn">
+          <!-- breadcrumbs -->
+          <div>
+            <ul class="breadcrumb">
+              <li><a href="index.html" title="Vai alla home">Home</a></li>
+              <li>
+                <a href="catalogo.html" title="Vai al catalogo">Catalogo</a>
+              </li>
+              <li>Opera</li>
+            </ul>
+          </div>
+
+          <div>
+            <!-- metadati -->
+            <div class="metadati">
+              <h3 id="titolo_sinistra">Metadati</h3>
+              <ul class="metadati_item">  
+                <li><p><span class="dc.title"><b>Titolo</b>:</span> Un silenzio e uno sguardo</p></li>
+                <li><p><span class="dc.creator"><b>Creatore</b>:</span> Maria Lai</p></li>
+                <li><p><span class="dc.coverage"><b>Luogo di creazione</b>:</span> Ulassai</p></li>
+                <li><p><span class="dc.date"><b>Data di creazione</b>:</span> 1953</p></li>
+                <li><p><span class="dc.format"><b>Tecnica</b>: </span><a href="https://it.wikipedia.org/wiki/Carboncino" class="link-scheda" target="_blank">Carboncino</p></a></li>
+                <li><p><span class="dc.provenance"><b>Collazione</b>:</span> Nuoro, Istituto Superiore Regionale Etnografico (<a href="https://www.isresardegna.it/" class="link-scheda" target="_blank">ISRE</a>)</p></li>
+              </ul>
+            </div>
+          </div>
+        </div>  
+        </section>
+
+        <!-- right column -->
+        <section id="rightcolumnITEM">
+        <div class="rightcolumn">
+          <div id="sfondo-item">
+          <h2 id="titolo-item">Un silenzio e uno sguardo</h2>
+          <div class="border-section">
+            <!-- img -->
+            <div>
+              <img 
+                src="img/opere/prima_attivita/PA-53.jpeg"
+                class="responsive img-item"
+              />
+            </div>
+            <ul id="buttons-list"><p><b>Accedi ai file </b></p>
+              <li><a href="xml/PA_53.xml" target="_blank" title="Metadati amministravo-gestionali" class="button_file">DC/XML</a></li>
+              <li><a href="#" title="Descrizione oggetto" class="button_file">CCO</a></li>
+              <li><a href="#" title="Descrizione oggetto" class="button_file">CDWA</a></li>
+            </ul>
+            
+            <!-- metadati Anche qui mettere dublincore-->
+            <div class="PA-53_Metadati">
+              <h3 class="dc.description">Descrizione</h3>
+              <p>Questo disegno a carboncino di Maria Lai, datato 1953, rappresenta una figura femminile seduta, probabilmente realizzato durante la sua permanenza a Ulassai. Il tratto è delicato e sintetico, con linee essenziali che delineano la figura in una posa riflessiva.
+              <br>
+              La donna indossa un abito lungo e un copricapo che potrebbe richiamare l'abbigliamento tradizionale sardo, suggerendo un legame con la cultura e le tradizioni del luogo. Il suo volto è appena accennato, senza dettagli, il che conferisce un senso di universalità e anonimato alla figura. L'atteggiamento della donna, con una mano che sostiene il mento, suggerisce <b>contemplazione</b> o <b>introspezione</b>. La composizione è semplice ma efficace nel trasmettere un senso di quiete e riflessione.
+              <br>
+              La firma "Maria Lai" è visibile nell'angolo in basso a destra del disegno, confermando l'autenticità dell'opera. Il disegno esprime l'essenza dello stile di Lai, che spesso si concentra sulla rappresentazione minimale e poetica della figura umana e della sua connessione con la terra e le tradizioni.</p>
+            </div>
+          </div>
+          </div>
+        </div>
+      </section>
+      </div>
+                 
+	<section id="info">
+        <div class="pre-footer">
+                <div><a href="#top" class="bottone-freccia" title="torna su"><b>&#8613;</b></a></div>
+                <div class="grid-container-pre-footer">
+                    <div class="grid-info"><h4>Info e Contatti</h4>
+                        <ul class="info_links">
+                            <li>Email: <a href="mailto:sito_maria_lai@email.it" title="Scrivi email"> sito_maria_lai@email.it</a></li>
+                            <li>Telefono: <a href="tel:+39 123 4567890" title="telefono">123 4567890</a></li>
+                        </ul>
+                    </div>
+                    <div class="grid-about-us"><h4>I nostri socials</h4>
+                        <ul class="socials_icons">
+                            <li><a href="https://www.facebook.com" title="Facebook" class="fa fa-facebook" target="_blank"></a></li>
+                            <li><a href="https://www.instagram.com" title="Instagram" class="fa fa-instagram" target="_blank"></a></li>
+                            <li><a href="https://it.pinterest.com" title="Pinterest" class="fa fa-pinterest" target="_blank"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+      </section>
+
+      <footer>
+        <section class="footer">
+               <div class="grid-container-footer">
+                    <div class="grid-img"><img src="img/layout/logo_footer.png"></div>
+                    <div class="grid-credits">
+                        <h3>Credits</h3>
+                        <p>Sito creato per il corso di <em>Digital Humanities e Patrimonio Culturale</em>, Alma Mater Studiorum - Università di Bologna.</p>
+                        <h3>Licenza</h3>
+                        <p>I contenuti di questo sito sono distribuiti con<br> licenza <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International (CC BY 4.0)</a>.</p>
+                    </div>
+               </div>
+               <p>&copy; 2024 Letizia Giulia Sanna. Tutti i diritti riservati.</p>
+            </section>
+      </footer>
+
+    <script src="js/script.js"></script>
+    </body>
+</html>

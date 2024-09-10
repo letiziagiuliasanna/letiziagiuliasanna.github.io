@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../stile/stile_tei.css"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+	<teiHeader>
+	 <fileDesc>
+		<titleStmt>
+			<title>Trascrizione Video-Intervista a Maria Lai.</title>
+			<respStmt>
+				<resp>transcriber</resp>
+				<name xml:id="Sanna_Letizia_Giulia">Sanna, Letizia Giulia</name>
+			</respStmt>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>Università di Bologna</publisher>
+			<date>2024-07-27</date>
+			<p>Not for distribution.</p>
+		</publicationStmt>
+		<sourceDesc>
+		<ptr id="sito Youtube" target="https://youtu.be/qNDrOY6Q3Wo?si=KSkPnxd8_VLWND0g"></ptr>
+		</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+
+    <teiText>
+		<u>Io ero a Roma, dovevo rientra in Sardegna. Bombardavano gli aerei e le navi e mio padre mi disse “non tornare”. Era un momento in cui si pensava che la guerra stesse per finire, allora, mi incaricò di andare a Verona, ma io volevo studiare. Quindi, andai a Venezia e mi presentai subito l'Accademia portai i documenti ed entrai. Io avevo 23 anni e Martini era un uomo un uomo vitalissimo, era un uomo che per me aveva un grande fascino: quando parlava, anche se ciò che diceva non capivo niente, e lui diceva “ti non ti capisci niente” – aveva ragione! Però, chi lo sa perché – io non lo so perché – ma io ho immagazzinato tutte le cose che diceva e che ancora oggi mi servono. Per me la sua severità – perché lui non incoraggiava nessuno – non essere vera solo con me: lui pensava che che l'arte era di pochi e che bisognava rendere le cose più difficili possibili. Se resistevi allora forse eri un'artista.<pause></pause>
+		L'arte non era un oggetto da possedere. Come nel gioco del calcio, la palla è fatta per essere per essere lanciata, non posseduta. Il mio maestro, Arturo Martini, diceva “l'arte è come un gioco: ricevi una palla e la butti lontano, la butti ad altri”.<pause></pause>
+		La prima volta che mi ha visto ha detto agli altri “cosa ci fa qui la pupa? Qui si fa sul serio” e “qui si fa sul serio” me l'ha sempre ripetuto, perché lui era di una generazione che non dava spazio al femminile nell'arte. Ora, io allora ero carica di futuro, altrimenti non sarei stata lì perché, stranamente, mi sentivo più serena li che in Sardegna. Qual è la forza che mi ha mi ha fatto fare questa scommessa? Essere per tre anni allieva di Martini nonostante il suo rifiuto, la sua ironia nei miei confronti, che non mi feriva abbastanza da mandarmi via.<pause></pause>
+		Cambosu è stato, per me, quello che più mi ha segnato. Diciamo che i miei grandi maestri sono stati Cambosu e Martini, perché con loro sono stata nel momento in cui si formava la mia personalità. Quando ho incontrato Cambosu io ero una bambina timidissima, balorda, imbranata e leggendo poesie io sono diventata disinvolta, felice. La scuola mi piaceva moltissimo. Poi quando ho ritrovato [Cambosu] – io ho ritrovato Cambosu sempre nei momenti difficili della mia vita – quando sono tornata, dopo Martini, dopo la guerra, a Cagliari, ero ero un'altra persona. Non avevo più fiducia nella necessità dell'arte. Lo stesso Martini aveva detto la scultura è finita, ormai è solo arte per i cimiteri. Non sapevo che fare della mia vita perché essere tornata dopo tre anni di angoscia della mia famiglia, rendeva improponibile qualunque altra partenza. Per me si preparava una vita “finalmente normale”, dicevano, ma io ero infelice e mi sono ammalata. Non ero depressa però dicevo “non è giusto che io muoia? Ho avuto una vita felice finora, ho visto morire tanta gente, perché chi devo morire?”<pause></pause>
+		Cambosu – l'unico che avesse fiducia nella mia possibilità dell'arte – nonostante tutti pensassero, allora, che per una donna l'arte era improponibile. Poi, avvenne la la morte violenta di mio fratello e allora in qualche maniera mi diceva “la vita è breve, non perdere tempo”. E così, sono ripartite. Cambosu mi ha dato la spinta. Quando io dicevo “mi dispiace tanto deludere mio padre, che non mi ha mai imposto la sua volontà, ma è così preoccupato delle mie scelte” lui diceva “non puoi tener conto di questo, se hai una direzione: vai! Vai, non guardare nulla, vai!” Cambosu è stato questo per me. E poi, allora, pensa nel ’46, ’47, ’48, in quegli anni lì, lui aveva la convinzione che essere sardi, essere “preistorici”, essere solitari, poteva diventare un privilegio. Oggi lo sappiamo che è così. Era veramente un lungimirante straordinario. Andai a trovarlo, due mesi prima che lui morisse, andai a trovarla nel sanatorio di Nuoro. È un ricordo molto bello: l'ho visto addormentato e mi fece una grande tenerezza e feci una cosa che non avevo mai fatto. L'ho baciato. E lui si è svegliato con questo sguardo meravigliato: ma come, ero io? Ci siamo seduti nel giardino dell'ospedale, abbiamo chiacchierato per più di un'ora e poi ci siamo solo guardati a lungo non ci siamo detti nulla e io sono partita. Questo è stato l'ultimo incontro.<pause></pause>
+		C’è chi nasce con una particolare esigenza: essere fuori dal mondo e non rispondere a tutte le leggi che governano la società. [Costui] scopre lentamente che qualunque affetto gli è proibito e inizialmente si sente condannato. Quando hai capito questo, però, sei salvo: quando hai capito che non essere di qualcuno è essere universali. Essere più vasti. Allora, è la felicità. Io già da quando ero bambina avevo bisogno sempre di sfuggire di casa, di scappare di casa. Naturalmente, mi si guardava con un'interrogazione: “non ti amiamo abbastanza? Perché stai meglio lontana? Perché ti nascondi sempre?” Io amavo molto stare sola, nascosta. Mi dicevano “ma cosa fai?” Io ascoltavo il silenzio, mi sembrava bellissimo. Però naturalmente mi sentivo diversa, mi sentivo sempre un po’ accusata, oppure, mi pareva di tradire sempre chi mi amava. Sempre, ho avuto il bisogno di creare distanze tra chi mi ama e me. Non so non sopporto di essere amata più di tanto. Il vero amore era quello che mi dava mio padre, che mi aiutava ad essere libera, anche essendo preoccupatissimo per me. Il vero amore è quello che aiuta l'altro ad essere libero. Bisognerebbe trovare un compagno che sappia essere inesistente.<pause></pause>
+		Io ero qui ospite degli zii. Ho vissuto qui tutta la mia infanzia, dai due anni ai nove anni. Vicino a quel filo sono stati posteggiati dove carrozzoni di zingari, per un anno e mezzo. Impiegavano il loro tempo un po’ nei lavori, ma anche, tanto, nelle acrobazie, perché erano dei degli acrobati, dei giocolieri e allenavano tutti i loro bambini, che diventavano tutti giocolieri. Anch'io partecipai a tutti gli esercizi, e quindi ne avevo imparati tanti. Facevo uno spettacolo: avevo imparato a volare sulle punte, facevo dei grandi giri che sembrava che volassi perché mettevo solo le punte e per me fu un periodo indimenticabile questo. Poi venne il giorno della partenza. Ed evidentemente per me fu un dramma: mi misi d'accordo con i loro bambini e fui nascosta in un carrozzone. La mi fuga fu scoperta solo durante la notte, già partiti. Ciò che ricordo, e che non ho mai dimenticato, è lo sguardo degli zii, che non mi rimproverarono: mi aspettavo di essere rimproverata, ma mi guardarono a lungo, il silenzio. Io continuai a viaggiare su quei carrozzoni con la fantasia per anni, forse ci viaggio ancora.</u>
+    </teiText>
+
+</TEI>
+
