@@ -9,7 +9,7 @@
 <!-- metadati opera fisica -->
 <dc:title>Un silenzio e uno sguardo</dc:title>
 <dc:creator>Maria Lai </dc:creator>
-<dc:identifier xsi:type="dcterms:URI">http://viaf.org/viaf/294007078</dc:identifier>
+<dc:identifier xsi:type="viaf">http://viaf.org/viaf/294007078</dc:identifier>
 <dc:subject>Disegno di donna</dc:subject>	                          
 <dc:description>Disegno tecnica carboncino di donna seduta pensosa</dc:description>
 <dc:publisher>ISRE</dc:publisher><!-- Istituto Superiore Regionale Etnografico Sardegna -->
